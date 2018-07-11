@@ -3,20 +3,20 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[         0,          0]
-NotebookDataLength[   2796880,      49760]
-NotebookOptionsPosition[   2784098,      49528]
-NotebookOutlinePosition[   2789190,      49644]
-CellTagsIndexPosition[   2788965,      49635]
+NotebookDataLength[   2796944,      49763]
+NotebookOptionsPosition[   2783926,      49527]
+NotebookOutlinePosition[   2789018,      49643]
+CellTagsIndexPosition[   2788793,      49634]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
-Cell["Last modified on: Tuesday, July 10, 2018 at 18:28", \
+Cell["Last modified on: Tuesday, July 10, 2018 at 23:37", \
 "TemplateInstructions",
  Deployed->True,
  Background->RGBColor[0.75, 0.75, 0.75],
  CellTags->
-  "LastModified",ExpressionUUID->"43467191-6b46-4743-b6ca-473fc313d6cc"],
+  "LastModified",ExpressionUUID->"45f11620-f7e5-48d4-8ef3-f359f018812e"],
 
 Cell[CellGroupData[{
 
@@ -9848,8 +9848,8 @@ Cell[BoxData[
                     "ColorSwatchGraphics", AspectRatio -> 1, Frame -> True, 
                     FrameStyle -> GrayLevel[0.33333333333333337`], FrameTicks -> 
                     None, PlotRangePadding -> None, ImageSize -> 
-                    Dynamic[{Automatic, 1.35 CurrentValue["FontCapHeight"]/
-                    AbsoluteCurrentValue[Magnification]}]], 
+                    Dynamic[{Automatic, 1.35 (CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification])}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0.5`", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -11069,8 +11069,8 @@ Cell[BoxData[
                     "ColorSwatchGraphics", AspectRatio -> 1, Frame -> True, 
                     FrameStyle -> GrayLevel[0.33333333333333337`], FrameTicks -> 
                     None, PlotRangePadding -> None, ImageSize -> 
-                    Dynamic[{Automatic, 1.35 CurrentValue["FontCapHeight"]/
-                    AbsoluteCurrentValue[Magnification]}]], 
+                    Dynamic[{Automatic, 1.35 (CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification])}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0.5`", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -11145,8 +11145,8 @@ Cell[BoxData[
                     "ColorSwatchGraphics", AspectRatio -> 1, Frame -> True, 
                     FrameStyle -> GrayLevel[0.33333333333333337`], FrameTicks -> 
                     None, PlotRangePadding -> None, ImageSize -> 
-                    Dynamic[{Automatic, 1.35 CurrentValue["FontCapHeight"]/
-                    AbsoluteCurrentValue[Magnification]}]], 
+                    Dynamic[{Automatic, 1.35 (CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification])}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0.5`", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -11221,8 +11221,8 @@ Cell[BoxData[
                     "ColorSwatchGraphics", AspectRatio -> 1, Frame -> True, 
                     FrameStyle -> GrayLevel[0.33333333333333337`], FrameTicks -> 
                     None, PlotRangePadding -> None, ImageSize -> 
-                    Dynamic[{Automatic, 1.35 CurrentValue["FontCapHeight"]/
-                    AbsoluteCurrentValue[Magnification]}]], 
+                    Dynamic[{Automatic, 1.35 (CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification])}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0.5`", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -11297,8 +11297,8 @@ Cell[BoxData[
                     "ColorSwatchGraphics", AspectRatio -> 1, Frame -> True, 
                     FrameStyle -> GrayLevel[0.33333333333333337`], FrameTicks -> 
                     None, PlotRangePadding -> None, ImageSize -> 
-                    Dynamic[{Automatic, 1.35 CurrentValue["FontCapHeight"]/
-                    AbsoluteCurrentValue[Magnification]}]], 
+                    Dynamic[{Automatic, 1.35 (CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification])}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0.5`", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -11373,8 +11373,8 @@ Cell[BoxData[
                     "ColorSwatchGraphics", AspectRatio -> 1, Frame -> True, 
                     FrameStyle -> GrayLevel[0.33333333333333337`], FrameTicks -> 
                     None, PlotRangePadding -> None, ImageSize -> 
-                    Dynamic[{Automatic, 1.35 CurrentValue["FontCapHeight"]/
-                    AbsoluteCurrentValue[Magnification]}]], 
+                    Dynamic[{Automatic, 1.35 (CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification])}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0.5`", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -28904,25 +28904,24 @@ txC0Pd7Ahne4ZpicsQiuOzpaIrA8BKw2QtuDzmlF7QKvxWebJHPI0Ylv+PhX
            Annotation[#, 
             Style[6675.43310546875, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{6.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{6.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -30206,26 +30205,25 @@ dzFshZgWRABhZ69OwSJVfyVBbLPzbRdsIBLF2534ys5uNkgxhnvbjn9bh3bZ
            Annotation[#, 
             Style[8495.9267578125, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.31753130590339895`, 0.}, {12.687224439245906`, 0.}}], 
-           StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5553185633686528, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5553185633686528, 
-                0.}]}], 
-             LineBox[{{12.444681436631347`, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {12.444681436631347`, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.31753130590339895`, 0.}, {12.687224439245906`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5553185633686528, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5553185633686528, 
+               0.}]}], 
+            LineBox[{{12.444681436631347`, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {12.444681436631347`, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+           StyleBox[{}, "GraphicsLabel",
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -30568,25 +30566,24 @@ oSpF0iGn0RNeN0/OQsFadPam2ZDFDYTScuUXoCxdvFEZ+hlL8T8wIeBh
            Annotation[#, 
             Style[5227.37841796875, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{-1.274056809905317, 0.}, {3.3105139111434814`, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{-1.274056809905317, 0.}, {3.3105139111434814`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{1.4512017479970867`, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {1.4512017479970867`, 
+               0.}]}], {{}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{1.4512017479970867`, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {1.4512017479970867`, 
-                0.}]}], {{}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -31010,25 +31007,24 @@ iVeUlmc7KvGZBweE/x9d03D0
            Annotation[#, 
             Style[1032.74765625, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.0195484340859432, 0.}, {4.991036562272396, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.0195484340859432, 0.}, {4.991036562272396, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{4.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {4.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{4.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {4.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -31641,25 +31637,24 @@ kIIRJCrwO7zII6cdkS/nnWYrZMBpx/zRVgxHpDpIW5BOEATP8WIsFvNH/U/o
            Annotation[#, 
             Style[4547.16943359375, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.0195484340859432, 0.}, {4.991036562272396, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.0195484340859432, 0.}, {4.991036562272396, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{4.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {4.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{4.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {4.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -32089,7 +32084,6 @@ Ksr7fxH5KjE=
                   GrayLevel[0.5], 
                   AbsoluteThickness[1.5], 
                   Opacity[0.66]}], {}, {}], 
-               
                RectangleBox[{5.550708683087932, 0.}, {6.449291316912069, 
                 8375.15234375}, "RoundingRadius" -> 0]},
               
@@ -32187,7 +32181,6 @@ Ksr7fxH5KjE=
                
                RectangleBox[{9.550708683087933, 0.}, {10.44929131691207, 
                 5862.606640625001}, "RoundingRadius" -> 0]},
-              
               ImageSizeCache->{{147.7969214423738, 
                160.09676912951755`}, {-22.2126084597911, 
                40.691166289984004`}}],
@@ -32220,25 +32213,24 @@ Ksr7fxH5KjE=
            Annotation[#, 
             Style[1256.2728515625001`, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.332737030411449, 0.}, {11.67162240264208, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.332737030411449, 0.}, {11.67162240264208, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5507086830879317, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5507086830879317, 
+               0.}]}], 
+            LineBox[{{11.449291316912069`, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {11.449291316912069`, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5507086830879317, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5507086830879317, 
-                0.}]}], 
-             LineBox[{{11.449291316912069`, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {11.449291316912069`, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -33461,25 +33453,24 @@ GaEK7wn+B2j08Tc=
            Annotation[#, 
             Style[3545.8128906250004`, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{6.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{6.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -34859,26 +34850,25 @@ A86HUA==
            Annotation[#, 
             Style[1423.228564453125, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.31753130590339895`, 0.}, {12.687224439245906`, 0.}}], 
-           StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5553185633686528, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5553185633686528, 
-                0.}]}], 
-             LineBox[{{12.444681436631347`, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {12.444681436631347`, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.31753130590339895`, 0.}, {12.687224439245906`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5553185633686528, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5553185633686528, 
+               0.}]}], 
+            LineBox[{{12.444681436631347`, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {12.444681436631347`, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+           StyleBox[{}, "GraphicsLabel",
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -36120,25 +36110,24 @@ zUBNDd9P1EdlQ/I10c8RWqkM6yJpAyf6jcOSEM3hmFkDQomVji7kShWScy7R
            Annotation[#, 
             Style[9633.4306640625, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.3707501820830299, 0.}, {9.632810779315367, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.3707501820830299, 0.}, {9.632810779315367, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{9.451201747997086, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {9.451201747997086, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{9.451201747997086, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {9.451201747997086, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -36794,7 +36783,6 @@ uBXlSTGWH5G9qqpQq6iruAYNJhE3aOCZdMEx2qAHmUv4pw5K/6Xhv7vRgWU=
                
                RectangleBox[{3.5507086830879317`, 0.}, {4.449291316912069, 
                 870.59072265625}, "RoundingRadius" -> 0]},
-              
               ImageSizeCache->{{69.00718808022319, 81.30703576736697}, {
                31.276341325730414`, 40.691166289984}}],
              StatusArea[#, 870.59072265625]& ,
@@ -36842,7 +36830,8 @@ uBXlSTGWH5G9qqpQq6iruAYNJhE3aOCZdMEx2qAHmUv4pw5K/6Xhv7vRgWU=
                 8705.9072265625}, "RoundingRadius" -> 0]},
               
               ImageSizeCache->{{95.27043253427337, 
-               107.57028022141715`}, {-48.957083352551834`, 40.691166289984}}],
+               107.57028022141715`}, {-48.957083352551834`, 
+               40.691166289984}}],
              StatusArea[#, 8705.9072265625]& ,
              TagBoxNote->"8705.9072265625"],
             StyleBox["8705.9072265625`", {}, StripOnInput -> False]],
@@ -36929,6 +36918,7 @@ uBXlSTGWH5G9qqpQq6iruAYNJhE3aOCZdMEx2qAHmUv4pw5K/6Xhv7vRgWU=
                   GrayLevel[0.5], 
                   AbsoluteThickness[1.5], 
                   Opacity[0.66]}], {}, {}], 
+               
                RectangleBox[{9.550708683087933, 0.}, {10.44929131691207, 
                 4352.95361328125}, "RoundingRadius" -> 0]},
               
@@ -36963,25 +36953,24 @@ uBXlSTGWH5G9qqpQq6iruAYNJhE3aOCZdMEx2qAHmUv4pw5K/6Xhv7vRgWU=
            Annotation[#, 
             Style[5658.839697265626, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.332737030411449, 0.}, {11.67162240264208, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.332737030411449, 0.}, {11.67162240264208, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5507086830879317, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5507086830879317, 
+               0.}]}], 
+            LineBox[{{11.449291316912069`, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {11.449291316912069`, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5507086830879317, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5507086830879317, 
-                0.}]}], 
-             LineBox[{{11.449291316912069`, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {11.449291316912069`, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -38351,25 +38340,24 @@ pDjV26bwFg/zZikuEvauo3U6kXHw/+UO2lY=
            Annotation[#, 
             Style[615.180810546875, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.45075018208302986`, 0.}, {5.551210779315368, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.45075018208302986`, 0.}, {5.551210779315368, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{5.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {5.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{5.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {5.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -39392,6 +39380,7 @@ giAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgvid/H9aIIAr
                
                RectangleBox[{1.5487982520029133`, 0.}, {2.4512017479970867`, 
                 6119.490600585938}, "RoundingRadius" -> 0]},
+              
               ImageSizeCache->{{53.859404821100384`, 
                76.24005766873267}, {-26.67002094191787, 40.69116628998401}}],
              StatusArea[#, 6119.490600585938]& ,
@@ -39438,6 +39427,7 @@ giAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgvid/H9aIIAr
                
                RectangleBox[{3.5487982520029133`, 0.}, {4.451201747997087, 
                 2855.7622802734377`}, "RoundingRadius" -> 0]},
+              
               ImageSizeCache->{{102.35357166500536`, 124.73422451263765`}, {
                8.989278915096467, 40.69116628998401}}],
              StatusArea[#, 2855.7622802734377`]& ,
@@ -39483,6 +39473,7 @@ giAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgvid/H9aIIAr
                
                RectangleBox[{5.548798252002913, 0.}, {6.451201747997087, 
                 815.9320800781251}, "RoundingRadius" -> 0]},
+              
               ImageSizeCache->{{150.84773850891034`, 173.2283913565426}, {
                31.276341325730428`, 40.69116628998401}}],
              StatusArea[#, 815.9320800781251]& ,
@@ -39491,25 +39482,24 @@ giAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgvid/H9aIIAr
            Annotation[#, 
             Style[815.9320800781251, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{6.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{6.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -40634,25 +40624,24 @@ Vv8W3q9bhXD5PqDx/wOigdLL
            Annotation[#, 
             Style[381.85224609375, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.45075018208302986`, 0.}, {5.551210779315368, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.45075018208302986`, 0.}, {5.551210779315368, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{5.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {5.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{5.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {5.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -42212,7 +42201,6 @@ GTJkyJAho8Di/wBSln8j
                
                RectangleBox[{2.555318563368653, 0.}, {3.444681436631347, 
                 5869.428271484376}, "RoundingRadius" -> 0]},
-              
               ImageSizeCache->{{53.686962148693894`, 
                64.89250798358559}, {-17.755195977664293`, 40.69116628998401}}],
              StatusArea[#, 5869.428271484376]& ,
@@ -42301,6 +42289,7 @@ GTJkyJAho8Di/wBSln8j
                   GrayLevel[0.5], 
                   AbsoluteThickness[1.5], 
                   Opacity[0.66]}], {}, {}], 
+               
                RectangleBox[{6.555318563368653, 0.}, {7.444681436631347, 
                 7675.406201171875}, "RoundingRadius" -> 0]},
               
@@ -42397,6 +42386,7 @@ GTJkyJAho8Di/wBSln8j
                
                RectangleBox[{10.555318563368653`, 0.}, {11.444681436631347`, 
                 8126.900683593751}, "RoundingRadius" -> 0]},
+              
               ImageSizeCache->{{149.98552514687793`, 
                161.1910709817696}, {-40.04225838829825, 40.69116628998401}}],
              StatusArea[#, 8126.900683593751]& ,
@@ -42428,26 +42418,25 @@ GTJkyJAho8Di/wBSln8j
            Annotation[#, 
             Style[4966.439306640626, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.31753130590339895`, 0.}, {12.687224439245906`, 0.}}], 
-           StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5553185633686528, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5553185633686528, 
-                0.}]}], 
-             LineBox[{{12.444681436631347`, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {12.444681436631347`, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.31753130590339895`, 0.}, {12.687224439245906`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5553185633686528, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5553185633686528, 
+               0.}]}], 
+            LineBox[{{12.444681436631347`, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {12.444681436631347`, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+           StyleBox[{}, "GraphicsLabel",
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -43329,7 +43318,6 @@ xMTExMTExMTExMTExMS0ofT/AaeDZ6Q=
                
                RectangleBox[{2.5487982520029133`, 0.}, {3.4512017479970867`, 
                 4895.218603515626}, "RoundingRadius" -> 0]},
-              
               ImageSizeCache->{{87.99840490873129, 
                114.8423078469592}, {-20.918449705310763`, 41.98532504446433}}],
              StatusArea[#, 4895.218603515626]& ,
@@ -43375,7 +43363,6 @@ xMTExMTExMTExMTExMS0ofT/AaeDZ6Q=
                
                RectangleBox[{4.548798252002913, 0.}, {5.451201747997087, 
                 6643.510961914063}, "RoundingRadius" -> 0]},
-              
               ImageSizeCache->{{146.3844884183147, 
                173.2283913565426}, {-43.205512115944714`, 41.98532504446433}}],
              StatusArea[#, 6643.510961914063]& ,
@@ -43384,25 +43371,24 @@ xMTExMTExMTExMTExMS0ofT/AaeDZ6Q=
            Annotation[#, 
             Style[6643.510961914063, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.45075018208302986`, 0.}, {5.551210779315368, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.45075018208302986`, 0.}, {5.551210779315368, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{5.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {5.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{5.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {5.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -44205,25 +44191,24 @@ BgYGBgYGBgYGBgYGBgYGBgYGht87/g9CLL8s
            Annotation[#, 
             Style[780.8545898437501, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{6.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{6.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -45255,6 +45240,7 @@ AgkkkEACCSSQQAIJJJBAAgkkkEACCSSQQHIo/x8Azcit
                
                RectangleBox[{1.5487982520029133`, 0.}, {2.4512017479970867`, 
                 2487.7622558593753`}, "RoundingRadius" -> 0]},
+              
               ImageSizeCache->{{102.3008718504148, 
                131.3072487933713}, {-8.840371013410724, 40.69116628998399}}],
              StatusArea[#, 2487.7622558593753`]& ,
@@ -45263,25 +45249,24 @@ AgkkkEACCSSQQAIJJJBAAgkkkEACCSSQQHIo/x8Azcit
            Annotation[#, 
             Style[2487.7622558593753`, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{-0.8428550619082302, 0.}, {3.870688128186453, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{-0.8428550619082302, 0.}, {3.870688128186453, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{2.4512017479970867`, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {2.4512017479970867`, 
+               0.}]}], {{}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{2.4512017479970867`, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {2.4512017479970867`, 
-                0.}]}], {{}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -46428,25 +46413,24 @@ yctFmDh1tyOmwEkq0lTkKckT5v5FF/tZqrgE6IzzX7nBjYQ=
            Annotation[#, 
             Style[899.6806640625, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.0195484340859432, 0.}, {4.991036562272396, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.0195484340859432, 0.}, {4.991036562272396, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{4.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {4.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{4.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {4.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -47618,25 +47602,24 @@ ULfwQGa3CSWA60d+QvdvSq1IJBI9fSIvMZu7hFnuYMxTIrt9BJwMaR5LoprB
            Annotation[#, 
             Style[744.0897949218751, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{6.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{6.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -49271,25 +49254,24 @@ y9/72dM2Ss6uvgAAAAAAAAAAAAAAr/IFZNtL7A==
            Annotation[#, 
             Style[1033.427978515625, {}], 
             "Tooltip"]& ]}}, {}, {}}, {}, {}, {}, {}, 
-       StyleBox[
-        StyleBox[{
-          {Thickness[Tiny], 
-           LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+       StyleBox[{
+         {Thickness[Tiny], 
+          LineBox[{{0.43075018208302984`, 0.}, {6.5716107793153675`, 0.}}], 
+          StyleBox[{}, "GraphicsLabel",
+           StripOnInput->False]}, 
+         StyleBox[{
+           {Thickness[Tiny], 
+            LineBox[{{0.5487982520029133, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
+               0.}]}], 
+            LineBox[{{6.451201747997087, 0.}, 
+              Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
+               0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
            StyleBox[{}, "GraphicsLabel",
-            StripOnInput->False]}, 
-          StyleBox[{
-            {Thickness[Tiny], 
-             LineBox[{{0.5487982520029133, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {0.5487982520029133, 
-                0.}]}], 
-             LineBox[{{6.451201747997087, 0.}, 
-               Offset[{-1.102182119232618*^-15, -6.}, {6.451201747997087, 
-                0.}]}], {{}, {}, {}, {}, {}, {}, {}, {}}}, 
-            StyleBox[{}, "GraphicsLabel",
-             StripOnInput->False]}, "GraphicsTicks",
-           StripOnInput->False]},
-         Antialiasing->False], "GraphicsAxes",
-        StripOnInput->False]},
+            StripOnInput->False]}, "GraphicsTicks",
+          StripOnInput->False]}, "GraphicsAxes",
+        StripOnInput->False,
+        Antialiasing->False]},
       AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
       Axes->{False, True},
       AxesLabel->{None, None},
@@ -49500,6 +49482,23 @@ charts, etc to complement what I have done in this limited time.\
 
 Cell[CellGroupData[{
 
+Cell["Github repository link", "Subsubsection",
+ CellChangeTimes->{{3.7402690277644444`*^9, 
+  3.740269039428718*^9}},ExpressionUUID->"6b61b92b-2869-427f-abb7-\
+b2be49abe60d"],
+
+Cell["\<\
+https : // \
+github.com/katjadellalibera/WolframSummerSchool2018/blob/master/Project/\
+DellaLibera - Katja - Project.nb\
+\>", "Text",
+ CellChangeTimes->{{3.740269059401368*^9, 
+  3.740269064714935*^9}},ExpressionUUID->"d0b9c218-c768-41cf-96c9-\
+36fbc020daa6"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
 Cell["Keywords", "Subsubsection",
  CellChangeTimes->{
   3.73618224410275*^9},ExpressionUUID->"6668b03b-4180-4966-b673-b20f85cb5927"],
@@ -49616,7 +49615,7 @@ StyleDefinitions->Notebook[{
 (*CellTagsOutline
 CellTagsIndex->{
  "LastModified"->{
-  Cell[400, 13, 226, 5, 51, "TemplateInstructions",ExpressionUUID->"43467191-6b46-4743-b6ca-473fc313d6cc",
+  Cell[400, 13, 226, 5, 51, "TemplateInstructions",ExpressionUUID->"45f11620-f7e5-48d4-8ef3-f359f018812e",
    CellTags->"LastModified"]},
  "AuthorInfo"->{
   Cell[651, 22, 218, 5, 67, "TemplateSectionHeaders",ExpressionUUID->"47541fce-e5a1-4793-b8e1-e1340b437ca6",
@@ -49634,16 +49633,16 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"LastModified", 2788145, 49617},
- {"AuthorInfo", 2788300, 49620},
- {"PosterContent", 2788458, 49623},
- {"PresentationContent", 2788626, 49626},
- {"ProjectNotes", 2788797, 49629}
+ {"LastModified", 2787973, 49616},
+ {"AuthorInfo", 2788128, 49619},
+ {"PosterContent", 2788286, 49622},
+ {"PresentationContent", 2788454, 49625},
+ {"ProjectNotes", 2788625, 49628}
  }
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[400, 13, 226, 5, 51, "TemplateInstructions",ExpressionUUID->"43467191-6b46-4743-b6ca-473fc313d6cc",
+Cell[400, 13, 226, 5, 51, "TemplateInstructions",ExpressionUUID->"45f11620-f7e5-48d4-8ef3-f359f018812e",
  CellTags->"LastModified"],
 Cell[CellGroupData[{
 Cell[651, 22, 218, 5, 67, "TemplateSectionHeaders",ExpressionUUID->"47541fce-e5a1-4793-b8e1-e1340b437ca6",
@@ -49695,63 +49694,67 @@ Cell[509691, 8596, 181, 3, 34, "Text",ExpressionUUID->"43d9e553-9537-436b-86ce-d
 Cell[509875, 8601, 597, 13, 87, "Code",ExpressionUUID->"913b1186-df34-4b10-8268-a51cc6b7339e"],
 Cell[CellGroupData[{
 Cell[510497, 8618, 272, 6, 50, "Code",ExpressionUUID->"7c2a0c04-69f8-4c58-bf97-0c8a59ad2237"],
-Cell[510772, 8626, 72569, 1371, 88, "Output",ExpressionUUID->"32204750-4264-4699-971e-34ec8a62b1b1"]
+Cell[510772, 8626, 72571, 1371, 88, "Output",ExpressionUUID->"32204750-4264-4699-971e-34ec8a62b1b1"]
 }, Open  ]],
-Cell[583356, 10000, 204, 3, 34, "Text",ExpressionUUID->"b9e84af8-617d-47e2-8314-88bdf7884bff"],
-Cell[583563, 10005, 2440, 64, 195, "Code",ExpressionUUID->"59965951-beb0-4425-9276-8ef6c06554d6"],
-Cell[586006, 10071, 213, 5, 34, "Text",ExpressionUUID->"16417f7d-b0d3-400e-9c35-98386ef659c5"],
-Cell[586222, 10078, 2435, 62, 213, "Code",ExpressionUUID->"cfd29f4b-e2d3-485d-9f26-3807cff75563"],
-Cell[588660, 10142, 166, 3, 34, "Text",ExpressionUUID->"2909892d-ce04-4146-b2f4-82454bc12381"],
-Cell[588829, 10147, 648, 14, 69, "Code",ExpressionUUID->"8701185e-2383-4a5a-9338-84b269406f59"],
+Cell[583358, 10000, 204, 3, 34, "Text",ExpressionUUID->"b9e84af8-617d-47e2-8314-88bdf7884bff"],
+Cell[583565, 10005, 2440, 64, 195, "Code",ExpressionUUID->"59965951-beb0-4425-9276-8ef6c06554d6"],
+Cell[586008, 10071, 213, 5, 34, "Text",ExpressionUUID->"16417f7d-b0d3-400e-9c35-98386ef659c5"],
+Cell[586224, 10078, 2435, 62, 213, "Code",ExpressionUUID->"cfd29f4b-e2d3-485d-9f26-3807cff75563"],
+Cell[588662, 10142, 166, 3, 34, "Text",ExpressionUUID->"2909892d-ce04-4146-b2f4-82454bc12381"],
+Cell[588831, 10147, 648, 14, 69, "Code",ExpressionUUID->"8701185e-2383-4a5a-9338-84b269406f59"],
 Cell[CellGroupData[{
-Cell[589502, 10165, 291, 5, 50, "Code",ExpressionUUID->"b717c3b1-d3a1-45e9-8d75-3e4b2af9f640"],
-Cell[589796, 10172, 77421, 1479, 88, "Output",ExpressionUUID->"9fd8f2c8-3975-4370-92a0-20c5fc0883f4"]
+Cell[589504, 10165, 291, 5, 50, "Code",ExpressionUUID->"b717c3b1-d3a1-45e9-8d75-3e4b2af9f640"],
+Cell[589798, 10172, 77431, 1479, 88, "Output",ExpressionUUID->"9fd8f2c8-3975-4370-92a0-20c5fc0883f4"]
 }, Open  ]],
-Cell[667232, 11654, 236, 6, 34, "Text",ExpressionUUID->"85ae8921-6b61-4640-b8a3-6bb7ad0309e8"],
-Cell[667471, 11662, 606, 18, 69, "Code",ExpressionUUID->"9cb0a0f8-f1b2-4b5d-8764-51e52ca1e9d2"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[668114, 11685, 148, 3, 44, "Subsubsection",ExpressionUUID->"405e0fe7-2022-4d50-b275-5f85c6659f37"],
-Cell[668265, 11690, 404, 8, 78, "Text",ExpressionUUID->"eeabea88-cb8f-40e3-83a7-0b110aec04c5"]
+Cell[667244, 11654, 236, 6, 34, "Text",ExpressionUUID->"85ae8921-6b61-4640-b8a3-6bb7ad0309e8"],
+Cell[667483, 11662, 606, 18, 69, "Code",ExpressionUUID->"9cb0a0f8-f1b2-4b5d-8764-51e52ca1e9d2"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[668706, 11703, 169, 3, 44, "Subsubsection",ExpressionUUID->"aa59b7ca-7848-48f1-96cf-6286c1fabb09"],
-Cell[668878, 11708, 287, 7, 34, "Text",ExpressionUUID->"dc9792e3-0796-4d87-9b45-3723504afe7c"],
-Cell[CellGroupData[{
-Cell[669190, 11719, 1652, 46, 105, "Code",ExpressionUUID->"d75cc161-377d-48df-a0ac-6f2269f01431"],
-Cell[670845, 11767, 418534, 6912, 1389, "Output",ExpressionUUID->"824c3ac4-00c3-4e79-a80c-0792dd927bbd"]
+Cell[668126, 11685, 148, 3, 44, "Subsubsection",ExpressionUUID->"405e0fe7-2022-4d50-b275-5f85c6659f37"],
+Cell[668277, 11690, 404, 8, 78, "Text",ExpressionUUID->"eeabea88-cb8f-40e3-83a7-0b110aec04c5"]
 }, Open  ]],
-Cell[1089394, 18682, 226, 5, 34, "Text",ExpressionUUID->"8f6b4d77-da9c-4434-9084-46d5e7a57f09"],
 Cell[CellGroupData[{
-Cell[1089645, 18691, 1703, 46, 141, "Code",ExpressionUUID->"88d59578-6cf8-4531-bc19-d5e08b36ca13"],
-Cell[1091351, 18739, 461610, 9096, 1389, "Output",ExpressionUUID->"2de4a004-d2b4-4d93-8969-1119a073fe47"]
+Cell[668718, 11703, 169, 3, 44, "Subsubsection",ExpressionUUID->"aa59b7ca-7848-48f1-96cf-6286c1fabb09"],
+Cell[668890, 11708, 287, 7, 34, "Text",ExpressionUUID->"dc9792e3-0796-4d87-9b45-3723504afe7c"],
+Cell[CellGroupData[{
+Cell[669202, 11719, 1652, 46, 105, "Code",ExpressionUUID->"d75cc161-377d-48df-a0ac-6f2269f01431"],
+Cell[670857, 11767, 418534, 6912, 1389, "Output",ExpressionUUID->"824c3ac4-00c3-4e79-a80c-0792dd927bbd"]
 }, Open  ]],
-Cell[1552976, 27838, 330, 7, 56, "Text",ExpressionUUID->"44de2f83-0e9b-41b1-b58f-dccecbe63bdb"],
+Cell[1089406, 18682, 226, 5, 34, "Text",ExpressionUUID->"8f6b4d77-da9c-4434-9084-46d5e7a57f09"],
 Cell[CellGroupData[{
-Cell[1553331, 27849, 920, 26, 69, "Code",ExpressionUUID->"ec2dbfb5-b25b-4ab5-ac31-48a7eb1f0c1d"],
-Cell[1554254, 27877, 510508, 9141, 1389, "Output",ExpressionUUID->"17a7cccd-708a-4723-a57d-8c8e515322a4"]
+Cell[1089657, 18691, 1703, 46, 141, "Code",ExpressionUUID->"88d59578-6cf8-4531-bc19-d5e08b36ca13"],
+Cell[1091363, 18739, 461610, 9096, 1389, "Output",ExpressionUUID->"2de4a004-d2b4-4d93-8969-1119a073fe47"]
 }, Open  ]],
-Cell[2064777, 37021, 250, 6, 34, "Text",ExpressionUUID->"76aef119-9847-46a7-9a2d-b5b31848c97c"],
+Cell[1552988, 27838, 330, 7, 56, "Text",ExpressionUUID->"44de2f83-0e9b-41b1-b58f-dccecbe63bdb"],
 Cell[CellGroupData[{
-Cell[2065052, 37031, 914, 25, 87, "Code",ExpressionUUID->"7ee64de0-544a-4ac0-a6ee-04ec6f7e2f40"],
-Cell[2065969, 37058, 710301, 12266, 1848, "Output",ExpressionUUID->"8bb10370-08e6-42ae-a3cd-95d397af8aee"]
+Cell[1553343, 27849, 920, 26, 69, "Code",ExpressionUUID->"ec2dbfb5-b25b-4ab5-ac31-48a7eb1f0c1d"],
+Cell[1554266, 27877, 510144, 9130, 1389, "Output",ExpressionUUID->"17a7cccd-708a-4723-a57d-8c8e515322a4"]
+}, Open  ]],
+Cell[2064425, 37010, 250, 6, 34, "Text",ExpressionUUID->"76aef119-9847-46a7-9a2d-b5b31848c97c"],
+Cell[CellGroupData[{
+Cell[2064700, 37020, 914, 25, 87, "Code",ExpressionUUID->"7ee64de0-544a-4ac0-a6ee-04ec6f7e2f40"],
+Cell[2065617, 37047, 709997, 12259, 1848, "Output",ExpressionUUID->"8bb10370-08e6-42ae-a3cd-95d397af8aee"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2776319, 49330, 156, 3, 44, "Subsubsection",ExpressionUUID->"8d03133e-d036-4673-985c-415dd5ec88bb"],
-Cell[2776478, 49335, 299, 7, 37, "CodeText",ExpressionUUID->"d6e11f32-3b7d-4a42-b961-fdc8d1c9fe40"],
-Cell[2776780, 49344, 5560, 133, 411, "Code",ExpressionUUID->"586c0e05-aac4-4c86-90d0-a2156dc93b33"]
+Cell[2775663, 49312, 156, 3, 44, "Subsubsection",ExpressionUUID->"8d03133e-d036-4673-985c-415dd5ec88bb"],
+Cell[2775822, 49317, 299, 7, 37, "CodeText",ExpressionUUID->"d6e11f32-3b7d-4a42-b961-fdc8d1c9fe40"],
+Cell[2776124, 49326, 5560, 133, 411, "Code",ExpressionUUID->"586c0e05-aac4-4c86-90d0-a2156dc93b33"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2782377, 49482, 168, 3, 44, "Subsubsection",ExpressionUUID->"9afe7952-52cb-49e5-812a-edf95df8c363"],
-Cell[2782548, 49487, 567, 10, 122, "Text",ExpressionUUID->"ae212e23-682e-4865-9623-781b884217da"]
+Cell[2781721, 49464, 168, 3, 44, "Subsubsection",ExpressionUUID->"9afe7952-52cb-49e5-812a-edf95df8c363"],
+Cell[2781892, 49469, 567, 10, 122, "Text",ExpressionUUID->"ae212e23-682e-4865-9623-781b884217da"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2783152, 49502, 132, 2, 44, "Subsubsection",ExpressionUUID->"6668b03b-4180-4966-b673-b20f85cb5927"],
+Cell[2782496, 49484, 175, 3, 44, "Subsubsection",ExpressionUUID->"6b61b92b-2869-427f-abb7-b2be49abe60d"],
+Cell[2782674, 49489, 269, 7, 56, "Text",ExpressionUUID->"d0b9c218-c768-41cf-96c9-36fbc020daa6"]
+}, Open  ]],
 Cell[CellGroupData[{
-Cell[2783309, 49508, 253, 3, 31, "Item",ExpressionUUID->"a0f68604-8bfc-4c6d-afb6-b6a38b6de7d0"],
-Cell[2783565, 49513, 242, 4, 31, "Item",ExpressionUUID->"d4791c55-e7db-46a0-8162-0eebcfa1df4d"],
-Cell[2783810, 49519, 248, 4, 31, "Item",ExpressionUUID->"042a2228-51eb-4ab2-a3cc-72e2868a48a8"]
+Cell[2782980, 49501, 132, 2, 44, "Subsubsection",ExpressionUUID->"6668b03b-4180-4966-b673-b20f85cb5927"],
+Cell[CellGroupData[{
+Cell[2783137, 49507, 253, 3, 31, "Item",ExpressionUUID->"a0f68604-8bfc-4c6d-afb6-b6a38b6de7d0"],
+Cell[2783393, 49512, 242, 4, 31, "Item",ExpressionUUID->"d4791c55-e7db-46a0-8162-0eebcfa1df4d"],
+Cell[2783638, 49518, 248, 4, 31, "Item",ExpressionUUID->"042a2228-51eb-4ab2-a3cc-72e2868a48a8"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
